@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id": 101,
+        "name": "Diana",
+        "city": "London",
+        "purchase": 320.0
+    },
+    {
+        "customer_id": 102,
+        "name": "Evan",
+        "city": "Bristol",
+        "purchase": 85.5
+    },
+    {
+        "customer_id": 103,
+        "name": "Fiona",
+        "city": "Manchester",
+        "purchase": 550.0
+    },
+    {
+        "customer_id": 104,
+        "name": "George",
+        "city": "Leeds",
+        "purchase": 42.0
+    },
+    {
+        "customer_id": 105,
+        "name": "Hannah",
+        "city": "Glasgow",
+        "purchase": 198.0
+    }
+]

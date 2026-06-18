@@ -1,0 +1,51 @@
+customer_id,age,gender,city,income,education,purchase_date,product_category,purchase_amount,discount_pct,customer_rating,num_purchases_last_year,is_member,returns_count,discount_amount,final_price
+1,25,Male,London,32000.0,Bachelor,2024-01-05,Electronics,450.0,10,4.5,8,1,1,45.0,405.0
+2,34,Female,Manchester,45000.0,Master,2024-01-08,Clothing,120.5,5,3.8,12,1,0,6.025,114.475
+3,28,Male,Birmingham,28000.0,High School,2024-01-10,Food,55.2,0,4.0,6,0,0,0.0,55.2
+4,45,Female,London,62000.0,PhD,2024-01-12,Books,89.99,15,5.0,20,1,2,13.4985,76.4915
+5,22,Male,Leeds,18000.0,High School,2024-01-15,Sports,210.0,20,3.5,4,0,1,42.0,168.0
+6,150,Female,London,71000.0,Master,2024-01-18,Electronics,980.0,10,4.2,25,1,3,98.0,882.0
+7,31,Male,Glasgow,39000.0,Bachelor,2024-01-20,Clothing,75.0,0,3.0,9,0,0,0.0,75.0
+8,29,Female,Bristol,33000.0,Bachelor,2024-01-22,Food,42.8,5,4.8,11,1,0,2.14,40.66
+9,52,Male,London,85000.0,PhD,2024-01-25,Electronics,1200.0,25,4.9,30,1,1,300.0,900.0
+10,19,Female,Manchester,15000.0,,2024-01-28,Books,35.0,0,2.5,2,0,0,0.0,35.0
+11,38,Male,Birmingham,48000.0,Master,2024-02-01,Sports,320.0,15,4.1,14,1,2,48.0,272.0
+12,27,Female,Leeds,25000.0,High School,2024-02-03,Clothing,88.5,10,3.9,7,0,1,8.85,79.65
+13,44,Male,London,,PhD,2024-02-05,Electronics,750.0,20,4.6,22,1,0,150.0,600.0
+14,33,Female,Glasgow,41000.0,Bachelor,2024-02-08,Food,63.4,0,4.3,10,1,0,0.0,63.4
+15,26,Male,Bristol,29000.0,High School,2024-02-10,Sports,145.0,5,3.2,5,0,0,7.25,137.75
+16,58,Female,London,92000.0,Master,2024-02-12,Electronics,50000.0,30,5.0,500,1,5,15000.0,35000.0
+17,35,Male,Manchester,43000.0,Bachelor,2024-02-15,Books,55.0,0,4.0,13,0,1,0.0,55.0
+18,24,Female,Birmingham,22000.0,High School,2024-02-18,Clothing,110.0,10,,6,0,0,11.0,99.0
+19,47,Male,Leeds,58000.0,Master,2024-02-20,Food,78.9,5,4.4,18,1,1,3.945,74.95500000000001
+20,30,Female,London,36000.0,Bachelor,2024-02-22,Electronics,560.0,15,3.7,9,1,0,84.0,476.0
+21,21,Male,Glasgow,16000.0,High School,2024-02-25,Sports,95.0,0,2.8,3,0,0,0.0,95.0
+22,39,Female,Bristol,50000.0,PhD,2024-02-28,Books,120.0,20,4.7,16,1,2,24.0,96.0
+23,28,Male,London,31000.0,Bachelor,2024-03-02,Clothing,67.5,5,3.5,8,0,0,3.375,64.125
+24,55,Female,Manchester,78000.0,PhD,2024-03-05,Electronics,2100.0,25,4.8,35,1,3,525.0,1575.0
+25,32,Male,Birmingham,37000.0,Bachelor,2024-03-08,Food,49.6,0,4.1,11,0,0,0.0,49.6
+26,41,Female,Leeds,,Master,2024-03-10,Sports,275.0,10,4.5,15,1,1,27.5,247.5
+27,23,Male,London,20000.0,High School,2024-03-12,Books,28.0,0,3.3,4,0,0,0.0,28.0
+28,36,Female,Glasgow,44000.0,Bachelor,2024-03-15,Clothing,95.0,5,3.8,12,0,0,4.75,90.25
+29,48,Male,Bristol,65000.0,Master,2024-03-18,Electronics,890.0,20,4.6,24,1,2,178.0,712.0
+30,27,Female,London,28000.0,High School,2024-03-20,Food,38.4,0,,7,0,0,0.0,38.4
+31,33,Male,Manchester,40000.0,Bachelor,2024-03-22,Sports,180.0,10,4.2,10,1,0,18.0,162.0
+32,62,Female,Birmingham,95000.0,PhD,2024-03-25,Electronics,3200.0,30,5.0,45,1,4,960.0,2240.0
+33,29,Male,Leeds,26000.0,High School,2024-03-28,Books,42.0,0,3.6,6,0,1,0.0,42.0
+34,37,Female,London,47000.0,Master,2024-04-01,Clothing,135.0,15,4.4,14,1,0,20.25,114.75
+35,25,Male,Glasgow,22000.0,High School,2024-04-03,Food,55.7,5,3.1,5,0,0,2.785,52.915000000000006
+36,43,Female,Bristol,56000.0,Bachelor,2024-04-05,Sports,240.0,10,4.0,17,1,1,24.0,216.0
+37,31,Male,London,35000.0,Bachelor,2024-04-08,Electronics,480.0,15,3.9,9,0,0,72.0,408.0
+38,20,Female,Manchester,14000.0,,2024-04-10,Books,22.0,0,2.0,1,0,0,0.0,22.0
+39,54,Male,Birmingham,82000.0,PhD,2024-04-12,Electronics,1750.0,25,4.9,32,1,2,437.5,1312.5
+40,28,Female,Leeds,27000.0,High School,2024-04-15,Clothing,79.0,5,3.7,8,0,0,3.95,75.05
+41,46,Male,London,61000.0,Master,2024-04-18,Food,92.3,10,4.5,19,1,1,9.23,83.07
+42,-5,Female,Glasgow,32000.0,Bachelor,2024-04-20,Sports,165.0,0,3.4,7,0,0,0.0,165.0
+43,34,Male,Bristol,42000.0,Bachelor,2024-04-22,Books,68.0,15,4.3,13,1,0,10.2,57.8
+44,26,Female,London,24000.0,High School,2024-04-25,Clothing,58.5,5,,5,0,0,2.925,55.575
+45,40,Male,Manchester,52000.0,Master,2024-04-28,Electronics,720.0,20,4.6,21,1,3,144.0,576.0
+46,23,Female,Birmingham,19000.0,High School,2024-05-01,Food,35.8,0,3.0,3,0,0,0.0,35.8
+47,57,Male,Leeds,88000.0,PhD,2024-05-03,Electronics,2800.0,30,5.0,40,1,2,840.0,1960.0
+48,30,Female,London,33000.0,Bachelor,2024-05-05,Sports,195.0,10,4.1,10,1,0,19.5,175.5
+49,35,Male,Glasgow,44000.0,Bachelor,2024-05-08,Books,75.0,0,4.2,14,0,1,0.0,75.0
+50,29,Female,Bristol,30000.0,High School,2024-05-10,Clothing,102.0,5,3.8,8,0,0,5.1,96.9
